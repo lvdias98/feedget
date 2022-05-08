@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  @apply bg-[#09090a] text-zinc-100
+}
+
+/* .button {
+  @apply bg-violet-500 px-4 h-10 rounded text-violet-100
+} */
